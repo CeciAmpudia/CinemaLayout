@@ -1,0 +1,151 @@
+header {
+	font-family: sans-serif;
+}
+.logo {
+	height: 70px;
+	width: 90%;
+}
+.text-gray {
+	font-size: 15px;
+	padding: 20px;
+}
+.buscador {
+	margin-top: 3px;
+	padding: 15px;
+	font-size: 18px;
+}
+/*----------    BANNER   ----------*/
+/*#banner {
+	background-image: url("img/banner.jpg");
+	background-repeat: no-repeat;
+	width: 100%;
+}*/
+.des {
+	position: absolute;
+	top: 120px;
+}
+.banner {
+	width: 100px;
+	margin: 0 auto;
+	position: absolute;
+    left: 325px;
+    top: 290px;
+}
+h1 {
+	font-family: sans-serif;
+	font-size: 48px;
+	color:#BDBDBD;
+	padding-bottom: 15px;
+}
+hr {
+	width: 75%;
+	border: 1px solid #D8D8D8;
+	margin-bottom: 15px;
+}
+p {
+	font-family: sans-serif;
+	color: #BDBDBD;
+}
+.age {
+	color: #3BCF68;
+	border: 2px solid #3BCF68;
+	border-radius: 6px;
+	text-align: center;
+	padding: 9px;
+}
+h4 {
+	font-family: sans-serif;
+	margin: 10px 0px;
+	color: #BDBDBD;
+}
+.info p {
+	margin: 13px 0px;
+}
+.desc {
+	width: 70%;
+}
+.watch {
+	width: 50%;
+	color: white;
+	font-size: 19px;
+	background-color: #EFBE2A;
+	padding: 15px;
+	margin: 10px;
+	text-align: center;
+	border-radius: 5px;
+}
+.book {
+	width: 50%;
+	color: white;
+	font-size: 19px;
+	background-color: #BF812A;
+	padding: 15px;
+	margin: 10px;
+	text-align: center;
+	border-radius: 5px;
+}
+/*---------- PELICULAS ----------*/
+#peliculas {
+	background-color: #EFBE2A;
+	padding: 30px;
+}
+#peliculas img {
+	width: 180px;
+	height: 300px;
+	padding: 0px 5px;
+}
+/*---------- Tcket &News ---------*/
+
+h2 {
+	font-family: sans-serif;
+	font-size: 30px;
+	color: #BDBDBD;
+	padding-left: 30px;
+}
+.tcket p {
+	margin: 30px;
+}
+.bookt {
+	width: 40%;
+	color: white;
+	font-size: 19px;
+	background-color: #BF812A;
+	padding: 35px 15px;
+	margin: 10px;
+	text-align: center;
+	border-radius: 5px;
+}
+.news {
+	margin: 100px 0px;
+}
+.news h3 {
+	font-family: sans-serif;
+	font-size: 16px;
+	margin-top: 30px;
+}
+.more {
+	margin-top: 80px;
+	color: #DBA901;
+}
+/*---------- PELICULAS 2 ----------*/
+#peliculas2 img {
+	width: 260px;
+	height: 300px;
+	margin: 0px 20px;
+}
+/*---------- PIE DE PAGINA ----------*/
+.foot {
+	margin: 60px 18px;
+}
+.created {
+	margin: 40px 0px;
+	font-size: 14px;
+}
+h5 {
+	font-family: sans-serif;
+	font-size: 18px;
+	color: #BDBDBD;
+}
+.links {
+	font-size: 14px;
+}
